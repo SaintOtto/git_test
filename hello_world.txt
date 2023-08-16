@@ -3,3 +3,8 @@ man im just saying somehting
 hey I am back 10 months later trying this again
 
 thanks for the support
+
+hey this is to test git commmit
+
+git commmit
+hey guy this is just a test of the commit message
